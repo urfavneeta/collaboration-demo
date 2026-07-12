@@ -8,4 +8,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Submit a pull request
 
 ## Features
-This project is for GitHub collaboration workflows practicing.
+This project is for GitHub collaboration workflows practicing for maktabkhoone.
